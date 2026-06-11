@@ -18,11 +18,16 @@ This document details the post-installation configuration and system setup of os
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- 1. Configure system administrator
-- 2. Create and manage user roles and permissions
-- 3. Establish departments and support teams.
-- 4. Configure ticket workflows and priorities.
-- 5. Verify system functionality through testing.
+  1. Configure system administrator
+  2. Create and manage user Roles. 
+  3. Establish departments.
+  4. Configure support teams.
+  5. Allow "anyone'to create tickets in Admin Panel.
+  6. Configure Agents/ Workers.
+  7. Configure Users/ Customers.
+  8. Configure SLA
+  9. Configure Help Topics for users to create tickets.
+
 
 <h2>Configuration Steps</h2>
 
@@ -165,6 +170,7 @@ Updated the password for both Sally Smith and Bob Fox [Password1] same for Both 
 <img width="823" height="598" alt="image" src="https://github.com/user-attachments/assets/45d7f5c3-fe43-41f0-b222-9a24d4e41b4e" />
 
 
+<img width="960" height="637" alt="image" src="https://github.com/user-attachments/assets/f28be458-71de-44ee-8f30-d9b0f76a0a79" />
 
 
 
