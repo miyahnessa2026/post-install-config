@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This document details the post-installation configuration and system setup of osTicket, an open-source ticketing and help desk solution, to ensure optimal functionality and admininstrative readiness.
+After installing osTicket, the next step is to configure the help desk so it can properly manage users, agents, departments, permissions and ticket workflows. This ensures the ticketing system is organized, secure, and ready for production use.
 
 
 <h2>Environments and Technologies Used</h2>
@@ -38,15 +38,23 @@ This document details the post-installation configuration and system setup of os
  
   <img width="852" height="538" alt="image" src="https://github.com/user-attachments/assets/69d6dcec-88bf-4db9-b35e-fe7434294e48" />
 
-This is the end users osTicketing page where end users create thier own tickets. 
+
+This is the end users osTicketing page where end users create their own tickets. The Admin Panel is used to configure the system, manage settings, create departments, assign permissions, and control the overall help desk environment.
+
 
 <img width="967" height="386" alt="image" src="https://github.com/user-attachments/assets/cbc71375-5285-48fc-a7f5-69db9df1f146" />
 
+
+I logged into the osTicket Admin Panel using the administrator account. On the welcome page, I clicked on "Admin Panel".
+
+
 <img width="962" height="794" alt="image" src="https://github.com/user-attachments/assets/5f1079eb-6973-4c47-ba32-697b77112dea" />
 
+On the Admin Panel page, clicked on "Agents" on the top right.
 
 <img width="960" height="418" alt="image" src="https://github.com/user-attachments/assets/b2c04f17-a88a-4140-8360-37d063c79554" />
 
+While on the Agents page, I clicked on "Roles". (The Role that will be created will be called "Supreme Admin". Supreme Admin  Role was created to provide full administrative access for managing the help desk, users, agents, departments, and system settings.  
 
 <img width="961" height="422" alt="image" src="https://github.com/user-attachments/assets/28743b19-b9e0-4759-b569-df033f0ef1c8" />
 
