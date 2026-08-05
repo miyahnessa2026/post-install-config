@@ -54,39 +54,62 @@ On the Admin Panel page, clicked on "Agents" on the top right.
 
 <img width="960" height="418" alt="image" src="https://github.com/user-attachments/assets/b2c04f17-a88a-4140-8360-37d063c79554" />
 
-While on the Agents page, I clicked on "Roles". (The Role that will be created will be called "Supreme Admin". Supreme Admin  Role was created to provide full administrative access for managing the help desk, users, agents, departments, and system settings.  
+While on the Agents page, I clicked on "Roles". (The Role that will be created will be called "Supreme Admin". Supreme Admin  Role was created to provide full administrative access for managing the help desk, users, agents, departments, and system settings.)  
+
 
 <img width="961" height="422" alt="image" src="https://github.com/user-attachments/assets/28743b19-b9e0-4759-b569-df033f0ef1c8" />
+
+Roles determine what permissions each agent has inside osTicket. Click on "Expanded Access"
 
 
 <img width="952" height="732" alt="image" src="https://github.com/user-attachments/assets/0b93ed79-a73a-4a69-ba3a-9131e6aa06dd" />
 
+On the Expanded Access page click on "Permissions" we are now giving full permission to this agent. 
+
 
 <img width="955" height="746" alt="image" src="https://github.com/user-attachments/assets/2b005dd1-cd3e-478b-b589-177eabf06891" />
 
+On the Permissions page click on tickets, make sure all boxes have a blue check mark. then click on "Definition". 
+
 
 <img width="955" height="603" alt="image" src="https://github.com/user-attachments/assets/fc6accad-2c39-4a3c-bb15-e784e564cdbf" />
+
+After clicking on Definition, I named this Role: Supreme Admin. 
 
 
 <img width="960" height="736" alt="image" src="https://github.com/user-attachments/assets/fa204c3e-ebca-4cc6-987a-7b2e31961af3" />
 
 
+Click on "Permissions" again.
+
 <img width="960" height="585" alt="image" src="https://github.com/user-attachments/assets/b403d857-5255-47e9-ac31-4917cb37e003" />
 
 
+Click on "Tasks" and "Knowledgebase" make sure all the blue boxes are check marked. Once all boxes are checked click on "Add Role".
+
+
 <img width="964" height="480" alt="image" src="https://github.com/user-attachments/assets/dbb42966-1373-4a6a-9c36-e93a2a19f88c" />
+
+The Role has been successfully added for Supreme Admin. Now on to creating "Departments".
 
 
 <img width="954" height="395" alt="image" src="https://github.com/user-attachments/assets/9ea318f8-80d1-4823-85a5-4164256b9592" />
 
 
+Click on "Departments" which is right of Roles. ( Departments organize tickets based on the type of support being requested. I will create the SYSADMINS department to handle system administration issues. Departments also control which agents can view and work on specific tickets.) Click on "Add New Department" to proceed.
+
 <img width="955" height="892" alt="image" src="https://github.com/user-attachments/assets/e65c5a3e-9350-4a17-af14-b762c08ad458" />
 
+On the Add New Department page, under settings, for the Department Information I changed: Parent to Top-Level Department/ Name to SysAdminsDepart and the Outgoing Email noreply@yahoo.com.
+
 <img width="954" height="905" alt="image" src="https://github.com/user-attachments/assets/42ec304c-9aa7-40ac-8aec-848eca999d07" />
+
+I then clicked on "Create Dept" 
 
 
 <img width="959" height="465" alt="image" src="https://github.com/user-attachments/assets/c4112f34-49e2-4d57-8e14-6830463b382d" />
 
+The SysAdminsDepart was Successfully added.
 
 <img width="956" height="374" alt="image" src="https://github.com/user-attachments/assets/ddc310d5-c74d-4e7c-b2ba-2ad4b30c17c6" />
 
