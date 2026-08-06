@@ -90,7 +90,7 @@ Click on "Tasks" and "Knowledgebase" make sure all the blue boxes are check mark
 
 <img width="964" height="480" alt="image" src="https://github.com/user-attachments/assets/dbb42966-1373-4a6a-9c36-e93a2a19f88c" />
 
-The Role has been successfully added for Supreme Admin. Now on to creating "Departments". (Admin Panel/Agents/Departments)
+The Role has been successfully added for Supreme Admin. Now on to creating "Departments". (Admin Panel»Agents»Departments)
 
 
 <img width="954" height="395" alt="image" src="https://github.com/user-attachments/assets/9ea318f8-80d1-4823-85a5-4164256b9592" />
@@ -114,7 +114,7 @@ The SysAdminsDepart was Successfully added.
 
 <img width="956" height="374" alt="image" src="https://github.com/user-attachments/assets/ddc310d5-c74d-4e7c-b2ba-2ad4b30c17c6" />
 
-Now I will configure "Teams". (Admin Panel/Agents/Teams) Teams allow agents from different departments to collaborate on the same tickets. Start by clicking on "Add New Team" on the Teams page.
+Now I will configure "Teams". (Admin Panel»Agents»Teams) Teams allow agents from different departments to collaborate on the same tickets. Start by clicking on "Add New Team" on the Teams page.
 
 
 <img width="957" height="707" alt="image" src="https://github.com/user-attachments/assets/99a36917-f1da-412e-8872-28277018cd2a" />
@@ -123,7 +123,7 @@ Under Team information, I named it "Online Banking". (I created the Online Banki
 
 <img width="957" height="719" alt="image" src="https://github.com/user-attachments/assets/11b65419-4b7d-426c-9bb6-cbfaf0c23ac0" />
 
-The next thing that I Configured was to allow anyone to create tickets. Admin Panel/Settings/User Settings page. Under the Authentication Settings, I unchecked the "require registration and login to create tickets", then clicked on the Save Changes button. (This was done only to allow anyone to create tickets for the sake of this project.)
+The next thing that I Configured was to allow anyone to create tickets. Admin Panel»Settings»User Settings page. Under the Authentication Settings, I unchecked the "require registration and login to create tickets", then clicked on the Save Changes button. (This was done only to allow anyone to create tickets for the sake of this project.)
 
 
 <img width="953" height="354" alt="image" src="https://github.com/user-attachments/assets/d6fb5b7a-2b8e-4f9b-ae94-f388600bae3a" />
@@ -160,24 +160,24 @@ Sally Smith was Successfully assigned and added.
 <img width="957" height="611" alt="image" src="https://github.com/user-attachments/assets/aea37162-9289-4f88-a6d6-554b3c0a3b52" />
 
 
-I then assigned Bob Fox's role. Admin/Agents/ Add New                                                                  Under Account Name: Bob Fox/ Email Address: bob@yahoo.com/ Username: Bob 
+I then assigned Bob Fox's role. Admin»Agents»Add New                                                                  Under Account Name: Bob Fox/ Email Address: bob@yahoo.com/ Username: Bob 
 
 
 <img width="957" height="574" alt="image" src="https://github.com/user-attachments/assets/ce027d6f-3a9a-4dd8-8de7-6b6d54d7ee66" />
 
 
-Next I clicked "Access" Primary Department: Support and View Only for Bob's role.
+Next, I clicked "Access" Primary Department: Support and View Only for Bob's role.
 
 <img width="972" height="531" alt="image" src="https://github.com/user-attachments/assets/a7aaece4-2b42-49b5-992a-c0fb2faea037" />
 
  
-Checked all boxes Under Permissions (Users) 
+Checked all boxes Under Permissions (Users). 
 
 
 <img width="831" height="472" alt="image" src="https://github.com/user-attachments/assets/7d2cdb60-c018-4b18-a553-696f0d891d64" />
 
 
-Clicked Teams and left it as is.
+Clicked Teams and left it as is, then proceeded to click the yellow Create button.
 
 <img width="954" height="267" alt="image" src="https://github.com/user-attachments/assets/7502b3f1-a42f-47e8-a2e6-ec4fe2706332" />
 
@@ -187,6 +187,8 @@ Bob was Successfully Added.
 <img width="953" height="424" alt="image" src="https://github.com/user-attachments/assets/57ed044d-a508-4240-853d-767239fdbd62" />
 
 
+Agents Sally Smith and Bob Fox were successfully Active in their Roles.
+
 <img width="641" height="387" alt="image" src="https://github.com/user-attachments/assets/4761f49e-385e-46a3-9d03-4fde09ebe8bc" />
 
 Updated the password for both Sally Smith and Bob Fox [Password1] same for Both (only for purpose of this project.).
@@ -195,29 +197,49 @@ Updated the password for both Sally Smith and Bob Fox [Password1] same for Both 
 <img width="958" height="431" alt="image" src="https://github.com/user-attachments/assets/4d80b2f7-34c0-4349-b91e-6694b3b8e4ce" />
 
 
+Next I Configured End Users. Users are the customers who submit support requests.                                      Users are Looked up/Created in Agent Panel» Users» Add New (only for the purpose of this project.)
+
+
 <img width="650" height="399" alt="image" src="https://github.com/user-attachments/assets/0ea45c10-3aac-4b6d-97a9-fb649e1dabc6" />
 
 
+I created Sandra as a sample user account to simulate real a customer and to test the ticket submission and support workflow. Email Address: Sandra@myspace.com / Full Name: Sandra. I then clicked Add User
+
 <img width="959" height="392" alt="image" src="https://github.com/user-attachments/assets/68e644b3-6615-4701-b7a5-2e562091e46e" />
+
+ Sandra Ticket was submitted. 
 
 
 <img width="956" height="606" alt="image" src="https://github.com/user-attachments/assets/7941ff46-829e-4339-a287-6c4ad3fc02bf" />
 
+I Configured SLA Plans in Admin Panel»Manage»SLA
 
 <img width="961" height="364" alt="image" src="https://github.com/user-attachments/assets/50da83b0-2b3a-4d32-9c7e-7cb03baed269" />
 
+I clicked, Add New SLA Plan. Service Level Agreements (SLAs) define how quickly support tickets should be addressed. Higher-priority issues receive faster response times, while low-priority issues follow standard business-hour schedules. {Sev-A  Grace Period 1 hour high priority, Schedule (24/7); Sev-B Grace Period 4 Hour mid-priority Schedule (24/7); Sev-C Grace Period 8 Hour, high-priority  Schedule (24/7). *Business Hours*}
 
+ 
 <img width="945" height="630" alt="image" src="https://github.com/user-attachments/assets/981fd43e-3f09-43a7-8ea3-1d743cac25ee" />
+
+
+  Created first SLA, Sev-A  Grace Period 1 hour high priority, Schedule (24/7), then clicked Add Plan.
+ SLA Sev-A, example completed 
 
 
 <img width="960" height="397" alt="image" src="https://github.com/user-attachments/assets/05068735-d623-44a8-84bb-a56246dd6a79" />
 
 
+ SLA Sev-A, example completed  (continue adding Sev-B & Sev-C)
+
+
 <img width="948" height="637" alt="image" src="https://github.com/user-attachments/assets/8886fa59-ba94-4dd1-b207-70a4022d12f6" />
 
 
+Created second SLA, Sev-B Grace Period 4 Hour mid-priority Schedule (24/7), then clicked Add Plan.  
+
 <img width="952" height="626" alt="image" src="https://github.com/user-attachments/assets/4d21876d-438c-488b-8f16-6b102dc7f3b2" />
 
+Last SLA, Sev-C Grace Period 8 Hour, high-priority  Schedule (24/7). *Business Hours*}, then clicked Add Plan. 
 
 <img width="946" height="597" alt="image" src="https://github.com/user-attachments/assets/4cec4c1a-069b-4ca1-817d-776dc669ce0b" />
 
