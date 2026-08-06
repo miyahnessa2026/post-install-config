@@ -123,8 +123,12 @@ Under Team information, I named it "Online Banking". (I created the Online Banki
 
 <img width="957" height="719" alt="image" src="https://github.com/user-attachments/assets/11b65419-4b7d-426c-9bb6-cbfaf0c23ac0" />
 
+The next thing that Configured was to allow anyone to create tickets. Admin Panel/Settings/User Settings page. Under the Authentication Settings, I unchecked the "require registration and login to create tickets", then clicked on the Save Changes button. (This was done only to allow anyone to create tickets for the sake of this project.)
+
 
 <img width="953" height="354" alt="image" src="https://github.com/user-attachments/assets/d6fb5b7a-2b8e-4f9b-ae94-f388600bae3a" />
+
+
 
 
 <img width="951" height="748" alt="image" src="https://github.com/user-attachments/assets/b9133192-c870-48af-bb6f-74cff0db2c22" />
