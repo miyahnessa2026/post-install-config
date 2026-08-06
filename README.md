@@ -123,43 +123,66 @@ Under Team information, I named it "Online Banking". (I created the Online Banki
 
 <img width="957" height="719" alt="image" src="https://github.com/user-attachments/assets/11b65419-4b7d-426c-9bb6-cbfaf0c23ac0" />
 
-The next thing that Configured was to allow anyone to create tickets. Admin Panel/Settings/User Settings page. Under the Authentication Settings, I unchecked the "require registration and login to create tickets", then clicked on the Save Changes button. (This was done only to allow anyone to create tickets for the sake of this project.)
+The next thing that I Configured was to allow anyone to create tickets. Admin Panel/Settings/User Settings page. Under the Authentication Settings, I unchecked the "require registration and login to create tickets", then clicked on the Save Changes button. (This was done only to allow anyone to create tickets for the sake of this project.)
 
 
 <img width="953" height="354" alt="image" src="https://github.com/user-attachments/assets/d6fb5b7a-2b8e-4f9b-ae94-f388600bae3a" />
 
-
+The next thing was to Configure Agents. ( Agents are employees who manage and resolve customer support tickets.  Admin Panel/Agents/Agents. I then clicked Add New Agent
 
 
 <img width="951" height="748" alt="image" src="https://github.com/user-attachments/assets/b9133192-c870-48af-bb6f-74cff0db2c22" />
 
 
+I created agent accounts and assigned each one to the appropriate department based on their responsibilities. Sally Smith (SysAdmin Department) & Bob Fox (Support Department).                                                                     Under Account on the Add New Agent [Name: Sally Smith/ Email Address: Sally@gmail.com/ Username: Sally]  
+
+
 <img width="950" height="589" alt="image" src="https://github.com/user-attachments/assets/6e88264a-ec75-4369-8891-4e1c160c3ace" />
+
+I continued and clicked Access to assign Sally Smith's Primary Department:                         Support/TopLevelDepartment & assigned her under Supreme Admin.
 
 
 <img width="953" height="527" alt="image" src="https://github.com/user-attachments/assets/9c7f3a00-27f5-4ab9-95d1-ebea08795664" />
+
+I proceeded to "Permissions" and checked all the boxes. I then proceeded to "Teams".
 
 
 <img width="955" height="462" alt="image" src="https://github.com/user-attachments/assets/fb79f002-5ee8-46be-a299-0e64d367853e" />
 
 
+Under Teams to assigned Sally Smith to the Online Banking Team. I then clicked the Yellow Create button.
+
 <img width="953" height="255" alt="image" src="https://github.com/user-attachments/assets/ae11211f-6c6d-436e-a81f-b2e9d4178d62" />
 
 
+Sally Smith was Successfully assigned and added. 
+
 <img width="957" height="611" alt="image" src="https://github.com/user-attachments/assets/aea37162-9289-4f88-a6d6-554b3c0a3b52" />
+
+
+I then assigned Bob Fox's role. Admin/Agents/ Add New                                                                  Under Account Name: Bob Fox/ Email Address: bob@yahoo.com/ Username: Bob 
 
 
 <img width="957" height="574" alt="image" src="https://github.com/user-attachments/assets/ce027d6f-3a9a-4dd8-8de7-6b6d54d7ee66" />
 
 
+Next I clicked "Access" Primary Department: Support and View Only for Bob's role.
+
 <img width="972" height="531" alt="image" src="https://github.com/user-attachments/assets/a7aaece4-2b42-49b5-992a-c0fb2faea037" />
+
+ 
+Checked all boxes Under Permissions (Users) 
 
 
 <img width="831" height="472" alt="image" src="https://github.com/user-attachments/assets/7d2cdb60-c018-4b18-a553-696f0d891d64" />
 
 
+Clicked Teams and left it as is.
+
 <img width="954" height="267" alt="image" src="https://github.com/user-attachments/assets/7502b3f1-a42f-47e8-a2e6-ec4fe2706332" />
 
+
+Bob was Successfully Added.
 
 <img width="953" height="424" alt="image" src="https://github.com/user-attachments/assets/57ed044d-a508-4240-853d-767239fdbd62" />
 
