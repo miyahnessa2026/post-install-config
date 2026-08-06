@@ -90,7 +90,7 @@ Click on "Tasks" and "Knowledgebase" make sure all the blue boxes are check mark
 
 <img width="964" height="480" alt="image" src="https://github.com/user-attachments/assets/dbb42966-1373-4a6a-9c36-e93a2a19f88c" />
 
-The Role has been successfully added for Supreme Admin. Now on to creating "Departments".
+The Role has been successfully added for Supreme Admin. Now on to creating "Departments". (Admin Panel/Agents/Departments)
 
 
 <img width="954" height="395" alt="image" src="https://github.com/user-attachments/assets/9ea318f8-80d1-4823-85a5-4164256b9592" />
@@ -111,9 +111,15 @@ I then clicked on "Create Dept"
 
 The SysAdminsDepart was Successfully added.
 
+
 <img width="956" height="374" alt="image" src="https://github.com/user-attachments/assets/ddc310d5-c74d-4e7c-b2ba-2ad4b30c17c6" />
 
+Now I will configure "Teams". (Admin Panel/Agents/Teams) Teams allow agents from different departments to collaborate on the same tickets. Start by clicking on "Add New Team" on the Teams page.
+
+
 <img width="957" height="707" alt="image" src="https://github.com/user-attachments/assets/99a36917-f1da-412e-8872-28277018cd2a" />
+
+Under Team information, I named it "Online Banking". (I created the Online Banking team so agents with different specialties can work together to resolve customer issues efficiently.) Then I clicked "Create Team". The Teams where successfully created.
 
 <img width="957" height="719" alt="image" src="https://github.com/user-attachments/assets/11b65419-4b7d-426c-9bb6-cbfaf0c23ac0" />
 
