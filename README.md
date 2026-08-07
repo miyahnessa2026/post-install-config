@@ -244,22 +244,35 @@ Last SLA, Sev-C Grace Period 8 Hour, high-priority  Schedule (24/7). *Business H
 <img width="946" height="597" alt="image" src="https://github.com/user-attachments/assets/4cec4c1a-069b-4ca1-817d-776dc669ce0b" />
 
 
+Lastly I Configured the Help Topics. This can be Created in Admin Panel»Manage»Help Topics. {Help Topics categorize incoming support requests. When users create a ticket, they select the topic that best describes their issue. This helps route tickets to the appropriate department and improves response efficiency.}                                               I then clicked Add New Help Topic » Help Topic Information- Topic: "Business Critical Outage" Parent Topic: Report Problem. Then I clicked the yellow "Add Topic" button.
+
 <img width="885" height="611" alt="image" src="https://github.com/user-attachments/assets/341c2ef0-5673-4894-bf2c-2dac82296c74" />
+
+
+I then clicked Add New Help Topic » Help Topic Information- Topic: "Personal Computer Issues" Parent Topic: Report Problem. Clicked the yellow "Add Topic" button.
 
 
 <img width="949" height="604" alt="image" src="https://github.com/user-attachments/assets/2029fc15-632d-43fb-bf85-16083d7eb460" />
 
 
+Add New Help Topic » Help Topic Information- Topic: "Equipment Request" Parent Topic: General Inquiry. Clicked the yellow "Add Topic" button.
+
+
 <img width="601" height="465" alt="image" src="https://github.com/user-attachments/assets/012018b0-336d-44a9-8c01-7b8df196ced9" />
 
 
+Add New Help Topic » Help Topic Information- Topic: "Password Reset" Parent Topic: Report Problem. Clicked the yellow "Add Topic" button.
+
 <img width="823" height="598" alt="image" src="https://github.com/user-attachments/assets/45d7f5c3-fe43-41f0-b222-9a24d4e41b4e" />
+
+
+I then clicked Add New Help Topic » Help Topic Information- Topic: "Other" Parent Topic: General Inquiry. Then I clicked the yellow "Add Topic" button for the last time.
 
 
 <img width="960" height="637" alt="image" src="https://github.com/user-attachments/assets/f28be458-71de-44ee-8f30-d9b0f76a0a79" />
 
 
-
+All Help Topics where created so when users create  their support tickets.
 
 
 
